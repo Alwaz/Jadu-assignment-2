@@ -1,0 +1,121 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.container {
+    display: flow-root;
+    background: rgb(242 245 245);
+} 
+
+.links{
+    list-style: none;
+    display: flex;
+    font-family: 'Shippori Mincho', serif;
+}
+
+.skills li {
+    color: rgb(255 255 255);
+}
+
+.link {
+    margin-right: 40px;
+    color: rgb(255 255 255);
+    margin-top: 9px;
+    text-decoration: none;
+}
+
+
+.navigate h1 {
+    color: rgb(255 255 255);
+    display: flex;
+    font-family: 'Shippori Mincho', serif;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    background: rgb(135 57 249)
+}
+
+.intro h1 {
+    margin-left: 73px;
+    font-size: xxx-large;
+    display: flex;
+    font-family: 'Shippori Mincho', serif;
+    color: rgb(86 83 96)
+}
+
+.findme ul li .fab {
+    font-size: 60px;
+    line-height: 91px;
+    color: rgb(63 61 74);
+    transition: .6s;
+}
+
+.findme {
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+
+.findme ul {
+    list-style: none;
+    display: flex;
+    margin-top: -31px;
+    margin-left: -37px;
+}
+
+.findme ul li {
+    margin: 0 21px;
+    margin-right: -5px;
+}
+
+.findme a {
+    justify-content: flex-end;
+}
+
+.findme p {
+    margin-left: 69px;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(54 54 54);
+    font-weight: 900;
+    font-size: 20px;
+    margin-top: -3px;
+}
+
+
+ul.skills {
+    margin-top: -7px;
+}
+
+.skills li {
+    display: list-item;
+    margin-left: 73px;
+    margin-top: 4px;
+    color: rgb(54 54 54);
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+}
+
+.snapmoji {
+    display: flex;
+    margin-left: auto;
+    margin-top: -138px;
+    width: 99%;
+}
+
+.snapmoji img {
+    width: 24%;
+    margin-left: auto;
+    border-radius: 8.8rem;
+    display: block;
+}
+
+footer {
+    margin-top: 7rem;
+    display: flex;
+    justify-content: center;
+    background: rgb(135 57 249);
+    color: rgb(255 255 255);
+}
