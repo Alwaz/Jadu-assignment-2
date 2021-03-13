@@ -1,0 +1,171 @@
+
+
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url('D:\Web Development\img\bg-pattern-bottom-desktop.svg');
+}
+
+
+.headingContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.maincontainer1 {
+    display: flex;
+    justify-content: space-evenly;
+    width: 96%;
+    height: 554px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-image: url(./img/bg-pattern-top-desktop.svg);
+}
+
+
+.maincontainer1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.childContainer1 {
+    width: 98%;
+    height: 38vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    padding: 14px;
+    width: 471px;
+}
+ul.ratinglist {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: rgb(247 242 247);
+    color: rgb(80 32 80);
+    border-radius: 11px;
+    margin: 10px;
+    padding: 14px;
+    width: 371px;
+    font-family: 'Spartan', sans-serif;
+}
+
+.starimg {
+    display: flex;
+}
+
+
+
+h1#mainheading {
+    font-size: 40px;
+    color: rgb(80 32 80);
+    font-family: 'Spartan', sans-serif;
+    font-weight: 700;
+}
+
+
+.maincontainer1 {
+    display: flex;
+    justify-content: space-evenly;
+    width: 96%;
+    height: 554px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    /* background: rgb(80 47 47); */
+}
+
+
+ 
+
+.bottomContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    position: absolute;
+    left: 50%;
+    top: 67%;
+    width: 99%;
+    height: 263px;
+    transform: translate(-50%, 2%);
+    background-image: url(./img/bg-pattern-bottom-desktop.svg);
+}
+
+
+
+.card {
+    background-color: rgb(80 32 80);
+    border-radius: 9px;
+    margin: 10px;
+    padding: 14px;
+    width: 371px;
+}
+
+p#para {
+    color: rgb(147 123 146);
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Spartan', sans-serif;
+}
+
+div#container2 {
+    margin: 10px;
+    padding: 13px;
+    width: 469px;
+    height: 236px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img {
+    margin: 0px 0px 0px 0px;
+    border-radius: 46px;
+    display: flex;
+}
+
+.nameStyling {
+    display: flex;
+    margin: 10px;
+    font-family: 'Spartan', sans-serif;
+    color: rgb(255 255 255);
+}
+
+p#anne {
+    margin-left: 10px;
+}
+p#irene {
+    margin-left: 10px;
+}
+
+p#colton {
+    margin-left: 10px;
+}
+
+.card p {
+    color: rgb(255 255 255);
+    font-family: 'Spartan', sans-serif;
+}
+
+
+@media screen and (min-width: 376px) and (max-width: 907px) {
+    
+}
+
+
