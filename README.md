@@ -7,7 +7,7 @@ This is fully responsive.
 * CSS
 * Flex
 
-Screen shots of attached below.
+Screen shots are attached below.
 
 ![Project2ss](https://user-images.githubusercontent.com/49204941/111031382-27baa100-8429-11eb-8948-05707f6cb094.png)
 ![Project2ss2](https://user-images.githubusercontent.com/49204941/111031386-2c7f5500-8429-11eb-8370-b0d8d066188b.png)
